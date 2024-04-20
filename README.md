@@ -1,12 +1,36 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Patel !;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Patel!;" />
 </h1>
-<!-- <h1 align="center">Hi 👋, I'm Harsh Patel</h1> -->
+
 <h3 align="center">A passionate backend developer from India</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🌱 I’m currently learning **Flask**
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Flask**
+ 
+ 🌱 I’m currently learning **Python,Flask**
+
+💬 Ask me about **Python, Django, Flask... or anything [here]([https://github.com/salesp07/salesp07/issues](https://www.linkedin.com/in/harsh-patel-5b3b1b260/))**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:harsh53006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harsh-patel-5b3b1b260/](https://www.linkedin.com/in/harsh-patel-5b3b1b260/)
 
